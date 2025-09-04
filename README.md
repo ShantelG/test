@@ -1,9 +1,12 @@
 # test
 
-About me
+##About me
 
-My name is Shantel 
-Today is Wednesday
+My name is Shantel and I just turnt 29 years old in August
 
-We're in September 2025 in the autumn season
-Christmas is in 3 months
+Things I like to do:
+- Reading
+- Cooking
+- Eating out
+ 
+
