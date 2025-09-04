@@ -11,3 +11,8 @@ Things I like to do:
 
 I am the oldest of 3 girls and I have no brothers.
 
+:sleepy:
+:thinking:
+:sunglasses:
+
+
